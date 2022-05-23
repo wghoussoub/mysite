@@ -1,0 +1,139 @@
+BasicInfo:
+  FirstName: William
+  LastName: Ghoussoub
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info:  + 971505597424
+    - Icon: fas fa-envelope
+      Info: wghoussoub@hotmail.com
+    - Icon: fas fa-globe
+      Info: williamghoussoub.com
+    - Icon: fas fa-map-marker-alt
+      Info: Lebanon
+
+Profile: Senior Network Security Engineer with over 15 years of experience in designing, implementing, operating and securing enterprise network infrastructure. Key Network and Security Operations activities I handle are configuration and management of security and network devices, monitoring their health and performance to avoid network downtime, in parallel with network traffic inspection and secure applications development to minimize vulnerabilites and defend against all kinds of cyber security threats.
+
+Experience:
+  - Employer: Internet City - Major tech innovation hub
+    Place: Dubai, UAE
+    Positions:
+      - Title: IT and Telecom Networking freelancer
+        Date: Jan 2021 - Present
+        Details:
+          - Network Implementation Lead of a wireless consolidation project across all territories of a major retail and hospitality conglomerate with more than 300 interconnected stores focused on network security and minimum business impact (Remote Work)
+        Badges: ['SSID Wireless Consolidation', 'Secure Wireless Applications']
+  - Employer: NCR Corporation - Banking and e-commerce solutions
+    Place: Dubai, UAE
+    Positions:
+      - Title: Senior Network Engineer
+        Date: 2015 - 2020
+        Details:
+          - NCR global partners in-country representative (AT&T, BT, Cisco)
+          - Design and implement multivendor network solutions
+          - Manage the deployment of large scale, complex, network projects
+          - Level 2/3 support in Routing, Switching, Wireless, Security
+        Badges: ['Routing', 'Switching', 'Wireless', 'Network Security']
+  - Employer: NCR Corporation
+    Place: Dubai, UAE
+    Positions:
+      - Title: Network Engineer
+        Date: 2009-2014
+        Details:
+          - NCR representative for all of Dubai local customers
+          - Design, implement, and support multivendor network solutions
+          - Conduct projects pre-implementation site surveys
+          - Complete regular full network health checks
+        Badges: ['Design', 'Implement', 'Support', 'Manage']  
+  - Employer: NCR Corporation
+    Place: Dubai, UAE
+    Positions:
+      - Title: Resident Engineer / Customer Engineer
+        Date: 2006-2009
+        Details:
+          - NCR's single point of contact for a prominent government client
+          - Handling support calls and network installations for local customers
+        Badges: ['Net Ops']
+  - Employer: FiberLink - Internet Serivice Provider
+    Place: Beirut, Lebanon
+    Positions:
+      - Title: NOC WAN Engineer
+        Date: 2001-2003
+        Details:
+          - Internet Service Provider environment experience
+          - Optimize and operate large multi-vendor ISP network
+          - Network Operation Center NOC / Helpdesk setting experience
+        Badges: ['ISP NOC', 'Helpdesk']
+  - Employer: Dataconsult - Network Solutions Provider
+    Place: Beirut, Lebanon
+    Positions:
+      - Title: Network Engineer
+        Date: 1999-2001
+        Details:
+          - Installation of different types of Wide Area Networks solutions
+          - Network support of the corporate / banking customer base
+          - Installation and support of a Unified Communications software
+          - Primary owner of a software security solution created for banks
+        Badges: ['Unified Communications', 'Secure Banking Solutions']
+    
+
+Education:
+  - Course: B.S. in Telecommunications and Computer Science
+    Place: Saint Joseph University of Beirut - Lebanon
+    Date: Oct 1995 - Jun 1999
+    Details: "Maitrise en Réseaux Informatiques"
+Skills:
+  - Family: OSI
+    Items:
+      - L1-L3
+      - TCP/IP
+      - HTTP  
+  - Family: Architecture
+    Items:
+      - Campus
+      - WAN
+      - Edge
+      - Data Center/Cloud
+  - Family: Tools
+    Items:
+      - Docker
+      - Rest APIs
+      - Python
+  - Family: Security
+    Items:
+      - Next Generation FW
+      - Proxy FW
+      - Packet FW
+      - Stateful FW
+      - Load balancers
+      - IDS/IPS
+      - Application secure development
+  - Family: OEMs
+    Items:
+      - Cisco
+      - Palo Alto
+      - Extreme
+      - Huawei
+      - Meraki
+
+Languages:
+  - Name: Arabic
+    Level: Native
+  - Name: English
+    Level: C1
+  - Name: French
+    Level: C1
+  
+    
+
+Diplomas:
+  - Cisco Certified Design Prof. (2013)
+  - Cisco Certified Network Prof.(2012)
+
+Interests:
+  - Running
+  - Basket-ball
+  - Reading
+  - Swimming
+  - Football
+  - Chess
