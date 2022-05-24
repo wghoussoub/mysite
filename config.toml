@@ -6,7 +6,7 @@ enableEmoji = true
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "http://williamghoussoub.com/"
+baseURL = "https://williamghoussoub.com/"
 title = "WG Portfolio"
 #googleAnalytics = ""
 
