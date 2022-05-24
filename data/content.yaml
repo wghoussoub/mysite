@@ -4,7 +4,7 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info:  + 971505597424
+      Info:  
     - Icon: fas fa-envelope
       Info: wghoussoub@hotmail.com
     - Icon: fas fa-globe
