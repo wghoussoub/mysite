@@ -4,7 +4,7 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info:  
+      Info:
     - Icon: fas fa-envelope
       Info: wghoussoub@hotmail.com
     - Icon: fas fa-globe
@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Lebanon
 
-Profile: Senior Network Security Engineer with over 15 years of experience in designing, implementing, operating and securing enterprise network infrastructure. Key Network and Security Operations activities I handle are configuration and management of security and network devices, monitoring their health and performance to avoid network downtime, in parallel with network traffic inspection and secure applications development to minimize vulnerabilites and defend against all kinds of cyber security threats.
+Profile: Senior Network Security Engineer with over 15 years of experience in designing, implementing, operating and securing enterprise network infrastructure. Key Network and Security Operations activities I handle are configuration and management of security and network devices, monitoring their health and performance to avoid network downtime, in parallel with network traffic inspection and secure applications development to minimize vulnerabilities and defend against all kinds of cyber security threats.
 
 Experience:
   - Employer: Internet City - Major tech innovation hub
@@ -44,7 +44,7 @@ Experience:
           - Design, implement, and support multivendor network solutions
           - Conduct projects pre-implementation site surveys
           - Complete regular full network health checks
-        Badges: ['Design', 'Implement', 'Support', 'Manage']  
+        Badges: ['Design', 'Implement', 'Support', 'Manage']
   - Employer: NCR Corporation
     Place: Dubai, UAE
     Positions:
@@ -75,7 +75,7 @@ Experience:
           - Installation and support of a Unified Communications software
           - Primary owner of a software security solution created for banks
         Badges: ['Unified Communications', 'Secure Banking Solutions']
-    
+
 
 Education:
   - Course: B.S. in Telecommunications and Computer Science
@@ -87,7 +87,7 @@ Skills:
     Items:
       - L1-L3
       - TCP/IP
-      - HTTP  
+      - HTTP
   - Family: Architecture
     Items:
       - Campus
@@ -123,8 +123,8 @@ Languages:
     Level: C1
   - Name: French
     Level: C1
-  
-    
+
+
 
 Diplomas:
   - Cisco Certified Design Prof. (2013)
