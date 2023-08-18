@@ -96,6 +96,8 @@ Skills:
       - Data Center/Cloud
   - Family: Tools
     Items:
+      - Bash
+      - Git
       - Docker
       - Rest APIs
       - Python
