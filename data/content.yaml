@@ -94,13 +94,18 @@ Skills:
       - WAN
       - Edge
       - Data Center/Cloud
+      - Software Defined Networking
   - Family: Tools
     Items:
       - Bash
       - Git
       - Docker
-      - Rest APIs
+      - RESTful APIs
       - Python
+      - Postman
+      - DevOps
+      - Agile SDLC
+      - CI/CD Pipelines
   - Family: Security
     Items:
       - Next Generation FW
