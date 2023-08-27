@@ -1,10 +1,8 @@
 BasicInfo:
   FirstName: William
   LastName: Ghoussoub
-  Photo: img/avatar.jpg
+  Photo: img/avatarused.jpeg
   Contacts:
-    - Icon: fas fa-phone
-      Info:
     - Icon: fas fa-envelope
       Info: contact@williamghoussoub.com
     - Icon: fas fa-globe
