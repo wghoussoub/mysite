@@ -39,7 +39,7 @@ Experience:
         Date: 2009-2014
         Details:
           - NCR representative for all of Dubai local customers
-          - Design, implement, and support multivendor network solutions
+          - Design, implement, and operate multivendor network solutions
           - Conduct projects pre-implementation site surveys
           - Complete regular full network health checks
         Badges: ['Design', 'Implement', 'Support', 'Manage']
@@ -70,7 +70,7 @@ Experience:
         Details:
           - Installation of different types of Wide Area Networks solutions
           - Network support of the corporate / banking customer base
-          - Installation and support of a Unified Communications software
+          - Installation and integration of a Unified Communications software
           - Primary owner of a software security solution created for banks
         Badges: ['Unified Communications', 'Secure Banking Solutions']
 
@@ -96,6 +96,7 @@ Skills:
   - Family: Tools
     Items:
       - Bash
+      - Scripting
       - Git
       - Docker
       - RESTful APIs
