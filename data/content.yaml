@@ -101,9 +101,10 @@ Skills:
       - Docker
       - RESTful APIs
       - Python
+      - Ansible
       - Postman
       - DevOps
-      - Agile SDLC
+      - SDLC
       - CI/CD Pipelines
   - Family: Security
     Items:
@@ -113,6 +114,7 @@ Skills:
       - Stateful FW
       - Load balancers
       - IDS/IPS
+      - ISE
       - Application secure development
   - Family: OEMs
     Items:
