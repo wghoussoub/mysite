@@ -10,7 +10,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Lebanon
 
-Profile: Senior Network Security Engineer with over 15 years of experience in designing, implementing, operating and securing enterprise network infrastructure. Key network and security operations activities I handle are configuration and management of security and network devices whether for implementing new solutions, changes to the current network state, or part of the troubleshooting and fault finding process. With the current and ongoing changes in the networking concept from the     traditional way (minimum changes holding back building competitive business applications) to the infrastructure as code and cloud (more welcoming to application changes and innovation), I got more interested in a position in this field, junior DevOps Engineer is one example. At the same time I am working on my skills, Cisco Devnet track in the networking automation field, and Pen Tester in the cybersecurity field.
+Profile: Senior Network Security Engineer with over 15 years of experience. Mainly, installing, supporting, operating, migrating and securing network infrastructure. Whether these are campus, branch, data centre, cloud or WAN networks, my work consists of using the technology tools available in the IT industry, to build resilient, scalable, programmable, automated, available and secure networks able to run the business applications.
 
 Experience:
   - Employer: Internet City - Major tech innovation hub
@@ -101,6 +101,8 @@ Skills:
       - Docker
       - RESTful APIs
       - Python
+      - NETCONF/RESTCONF
+      - YANG
       - Ansible
       - Postman
       - DevOps
