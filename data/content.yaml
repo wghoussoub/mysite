@@ -10,7 +10,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Lebanon
 
-Profile: Senior Network Security Engineer with over 20 years of experience. Mainly, installing, supporting, operating, migrating and securing network infrastructure. Whether these are campus, branch, data center, cloud or WAN networks, my work consists of using the technology tools available in the IT industry, to build resilient, scalable, programmable, automated, available and secure networks able to run the business applications. I am based in Dubai, United Arab Emirates.
+Profile: Senior Network Security Engineer with over 20 years of experience. Mainly, installing, supporting, operating, migrating and securing network infrastructure. Whether these are campus, branch, data center, cloud or WAN networks, my work consists of using the technology tools available in the IT industry, to build resilient, scalable, programmable, automated, available and secure networks able to run the business applications. Based in Dubai, United Arab Emirates.
 
 Experience:
   - Employer: Dubai Internet City - Major tech innovation hub
@@ -21,25 +21,25 @@ Experience:
         Details:
           - Lead to completion several wireless consolidation projects aiming to reduce the huge number of wireless SSIDs to only the few necessary corporate ones in more than 500 large stores across the Gulf Region for a major retail conglomerate.
         Badges: ['SSID Consolidation', 'Secure Wireless Applications']
-  - Employer: NCR Corporation - Telecom and Technology
+  - Employer: NCR Corporation - Telecom and Technology Solutions
     Place: Dubai, UAE
     Positions:
       - Title: Senior Network Engineer
         Date: 2015 - 2020
         Details:
-          - Thanks to NCR’s partnerships with Cisco, BT, AT&T and many other global vendors, I was exposed to more than 50 of their UAE clients every year for the last few years. Either for network solutions implementations or for break and fix requests.
+          - Thanks to NCR’s partnerships with Cisco, BT, AT&T and many other global vendors, got exposed to more than 50 of their UAE clients every year for the last few years. Either for network solutions implementations or for break and fix requests.
           -  Brought to completion large network migration projects, notably, one government client shifting to a new security vendor, replacing the edge firewalls in 60 Dubai government departments and the core data center firewalls, re-applying the security policy, and phasing out the existing vendor along the way.
         Badges: ['Routing', 'Switching', 'Network Migrations', 'Network Security']
-  - Employer: NCR Corporation - Cisco Gold Provider
+  - Employer: NCR Corporation - Telecom and Technology Solutions
     Place: Dubai, UAE
     Positions:
       - Title: Network Engineer
         Date: 2009-2014
         Details:
           - Utilized and owned a physical lab of network and security devices in our office to prove out potential network solutions through proof of concept.
-          - This lab along with our continuous learning as a team to earn Cisco certificates, contributed to achieve and renew NCR’s Cisco gold partner status.
-        Badges: ['Physical Lab', 'Cisco Gold partner']
-  - Employer: NCR Corporation
+          - Contributing in Cisco projects implementations, the above lab, and continuous learning with the team to earn Cisco certificates, helped NCR achieve Cisco gold partner status.
+        Badges: ['Physical lab', 'Cisco projects', 'Cisco certified', 'Cisco gold partner']
+  - Employer: NCR Corporation - Telecom and Technology Solutions
     Place: Dubai, UAE
     Positions:
       - Title: Resident Engineer / Customer Engineer
