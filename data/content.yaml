@@ -3,6 +3,8 @@ BasicInfo:
   LastName: Ghoussoub
   Photo: img/avatarused.jpeg
   Contacts:
+    - Icon: fas fa-phone
+      Info: +971 50 5597424
     - Icon: fas fa-envelope
       Info: contact@williamghoussoub.com
     - Icon: fas fa-globe
