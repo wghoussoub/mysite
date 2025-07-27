@@ -15,7 +15,7 @@ BasicInfo:
 Profile: As a Senior Network Engineer, I design, deploy, and manage the network infrastructure for small, medium and large enterprises, in routing, switching and wireless as well as securing the enterprise network devices, endpoints, data and applications. Working with the IT industry tools in network programmability and automation, cloud services and data center, DevOps and CI/CD pipelines, and cybersecurity to make the network more reliable, adaptable and trustworthy to support the business needs. I am based in Dubai, United Arab Emirates.
 
 Experience:
-  Employer: Federal National Council
+  - Employer: Federal National Council
     Place: Dubai, UAE
     Positions:
       - Title: Senior Site Engineer
@@ -23,7 +23,7 @@ Experience:
         Details:
           - On premises management and operations of the council’s wired and wireless network infrastructure from access to distribution and core, as well as its server farm of physical and virtual servers.
           - Integrated Cisco Identity Services Engine (ISE) to control all endpoints network access and Cisco Catalyst / DNA Center for central management of all network devices.
-        Badges: ['SSID Consolidation', 'Secure Wireless Applications']
+        Badges: ['Cisco ISE', 'Cisco Catalyst Center']
   - Employer: Dubai Internet City - Major tech innovation hub
     Place: Dubai, UAE
     Positions:
