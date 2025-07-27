@@ -15,11 +15,20 @@ BasicInfo:
 Profile: As a Senior Network Engineer, I design, deploy, and manage the network infrastructure for small, medium and large enterprises, in routing, switching and wireless as well as securing the enterprise network devices, endpoints, data and applications. Working with the IT industry tools in network programmability and automation, cloud services and data center, DevOps and CI/CD pipelines, and cybersecurity to make the network more reliable, adaptable and trustworthy to support the business needs. I am based in Dubai, United Arab Emirates.
 
 Experience:
+  Employer: Federal National Council
+    Place: Dubai, UAE
+    Positions:
+      - Title: Senior Site Engineer
+        Date: Sep 2024 - Present
+        Details:
+          - On premises management and operations of the council’s wired and wireless network infrastructure from access to distribution and core, as well as its server farm of physical and virtual servers.
+          - Integrated Cisco Identity Services Engine (ISE) to control all endpoints network access and Cisco Catalyst / DNA Center for central management of all network devices.
+        Badges: ['SSID Consolidation', 'Secure Wireless Applications']
   - Employer: Dubai Internet City - Major tech innovation hub
     Place: Dubai, UAE
     Positions:
       - Title: IT and Telecom Networking Freelancer
-        Date: Jan 2021 - Present
+        Date: Jan 2021 - Aug 2024
         Details:
           - Lead to completion, while managing the deployment technical teams, several wireless consolidation projects aiming to reduce the huge number of wireless SSIDs to only the few necessary corporate ones in more than 500 large stores of a major retail conglomerate operating across the Middle East, North Africa, and Gulf regions.
         Badges: ['SSID Consolidation', 'Secure Wireless Applications']
@@ -132,6 +141,9 @@ Diplomas:
   - Cisco CCNP(2013-2028)
   - Extreme Wireless Associate (2024)
   - INE Cloud Associate ICCA (2024)
+  - Automate AI Solutions (2025)
+  - Cisco ISE Implementation (2025)
+  - Managing Cisco Network OS (2025)
 
 Interests:
   - Running
